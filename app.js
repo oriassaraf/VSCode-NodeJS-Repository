@@ -1,2 +1,2 @@
-var msg = "Don't judge this prg by its size";
+var msg = "Hellow World";
 console.log(msg);
